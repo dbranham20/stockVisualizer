@@ -1,0 +1,3 @@
+Run the project with `python ./src/app.py`
+
+Test the project with `pytest`
